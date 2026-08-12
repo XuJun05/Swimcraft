@@ -17,9 +17,9 @@
   "custom": {
     "modmenu": {
       "links": {
-        "modmenu.curseforge": "https://www.curseforge.com/minecraft/mc-mods/free-cam",
+        "modmenu.curseforge": "https://www.curseforge.com/minecraft/mc-mods/swimcraft",
         "modmenu.modrinth": "https://modrinth.com/project/RBxmKnCW",
-        "modmenu.github_releases": "https://github.com/MinecraftFreecam/Freecam/releases"
+        "modmenu.github_releases": "https://github.com/XuJun05/Swimcraft/releases"
       }
     }
   },
