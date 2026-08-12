@@ -1,0 +1,14 @@
+{
+    "key":  {
+                "W":  "minecraft:green_wool"
+            },
+    "pattern":  [
+                    "WWW",
+                    "W W",
+                    "W W"
+                ],
+    "result":  {
+                   "id":  "swimcraft:green_trunks"
+               },
+    "type":  "minecraft:crafting_shaped"
+}

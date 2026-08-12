@@ -1,0 +1,14 @@
+{
+    "key":  {
+                "W":  "minecraft:lime_wool",
+                "S":  "minecraft:string"
+            },
+    "pattern":  [
+                    "SSS",
+                    "W W"
+                ],
+    "result":  {
+                   "id":  "swimcraft:lime_boxer"
+               },
+    "type":  "minecraft:crafting_shaped"
+}

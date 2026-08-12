@@ -1,0 +1,15 @@
+{
+    "key":  {
+                "W":  "minecraft:red_wool",
+                "S":  "minecraft:string"
+            },
+    "pattern":  [
+                    " S ",
+                    "WWW",
+                    " W "
+                ],
+    "result":  {
+                   "id":  "swimcraft:red_etchu_fundoshi"
+               },
+    "type":  "minecraft:crafting_shaped"
+}

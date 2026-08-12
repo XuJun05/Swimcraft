@@ -1,0 +1,14 @@
+{
+    "key":  {
+                "W":  "minecraft:white_wool"
+            },
+    "pattern":  [
+                    "WWW",
+                    "W W",
+                    "W W"
+                ],
+    "result":  {
+                   "id":  "swimcraft:trunks"
+               },
+    "type":  "minecraft:crafting_shaped"
+}

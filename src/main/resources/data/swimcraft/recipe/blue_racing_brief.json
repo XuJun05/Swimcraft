@@ -1,0 +1,14 @@
+{
+    "key":  {
+                "W":  "minecraft:blue_wool",
+                "L":  "minecraft:leather"
+            },
+    "pattern":  [
+                    "LLL",
+                    " W "
+                ],
+    "result":  {
+                   "id":  "swimcraft:blue_racing_brief"
+               },
+    "type":  "minecraft:crafting_shaped"
+}

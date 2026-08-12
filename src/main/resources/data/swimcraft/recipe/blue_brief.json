@@ -1,0 +1,14 @@
+{
+    "key":  {
+                "W":  "minecraft:blue_wool",
+                "S":  "minecraft:string"
+            },
+    "pattern":  [
+                    "SSS",
+                    " W "
+                ],
+    "result":  {
+                   "id":  "swimcraft:blue_brief"
+               },
+    "type":  "minecraft:crafting_shaped"
+}

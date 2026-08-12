@@ -1,0 +1,14 @@
+{
+    "key":  {
+                "W":  "minecraft:white_wool",
+                "S":  "minecraft:string"
+            },
+    "pattern":  [
+                    "SSS",
+                    " W "
+                ],
+    "result":  {
+                   "id":  "swimcraft:brief"
+               },
+    "type":  "minecraft:crafting_shaped"
+}

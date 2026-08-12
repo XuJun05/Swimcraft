@@ -1,0 +1,14 @@
+{
+    "key":  {
+                "W":  "minecraft:red_wool",
+                "L":  "minecraft:leather"
+            },
+    "pattern":  [
+                    "LLL",
+                    " W "
+                ],
+    "result":  {
+                   "id":  "swimcraft:life_saver_racing_brief"
+               },
+    "type":  "minecraft:crafting_shaped"
+}

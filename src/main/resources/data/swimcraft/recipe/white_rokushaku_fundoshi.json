@@ -1,0 +1,14 @@
+{
+    "key":  {
+                "W":  "minecraft:white_wool",
+                "S":  "minecraft:string"
+            },
+    "pattern":  [
+                    "SSS",
+                    "WWW"
+                ],
+    "result":  {
+                   "id":  "swimcraft:white_rokushaku_fundoshi"
+               },
+    "type":  "minecraft:crafting_shaped"
+}

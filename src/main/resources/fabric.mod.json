@@ -1,18 +1,28 @@
 {
 	"schemaVersion": 1,
 	"id": "swimcraft",
-	"version": "${version}",
+	"version": "1.4.9+mc26.1.2",
 	"name": "Swimcraft",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Adds a variety of swimsuits, beachwear, and summer accessories to Minecraft!",
 	"authors": [
-		"Me!"
+		"XuJun05"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://www.planetminecraft.com/mod/swimcraft-7017044/",
+		"sources": "https://github.com/XuJun05/Swimcraft",
+        "issues": "https://github.com/XuJun05/Swimcraft/issues"
 	},
-	"license": "CC0-1.0",
+	"license": "LGPL-3",
 	"icon": "assets/swimcraft/icon.png",
+  "custom": {
+    "modmenu": {
+      "links": {
+        "modmenu.curseforge": "https://www.curseforge.com/minecraft/mc-mods/free-cam",
+        "modmenu.modrinth": "https://modrinth.com/project/RBxmKnCW",
+        "modmenu.github_releases": "https://github.com/MinecraftFreecam/Freecam/releases"
+      }
+    }
+  },
 	"environment": "*",
 	"entrypoints": {
 		"main": [
